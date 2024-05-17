@@ -15,7 +15,7 @@ color:red
 
 </head>
 <body>
-<h3>User Registration Form</h3>
+<h3>User Registration Forms</h3>
 <form:form action="register" modelAttribute="user" method = "post">
 <table>
 
